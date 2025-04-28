@@ -1,6 +1,6 @@
-a = 15
-b = 12
+int a = 15
+int b = 12
 
 
 Ans = a + b
-print(Ans)
+print(Adition is,"Ans")
